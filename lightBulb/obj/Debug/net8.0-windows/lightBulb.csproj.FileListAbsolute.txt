@@ -1,0 +1,17 @@
+C:\Users\gahia\source\repos\lightBulb\bin\Debug\net8.0-windows\lightBulb.exe
+C:\Users\gahia\source\repos\lightBulb\bin\Debug\net8.0-windows\lightBulb.deps.json
+C:\Users\gahia\source\repos\lightBulb\bin\Debug\net8.0-windows\lightBulb.runtimeconfig.json
+C:\Users\gahia\source\repos\lightBulb\bin\Debug\net8.0-windows\lightBulb.dll
+C:\Users\gahia\source\repos\lightBulb\bin\Debug\net8.0-windows\lightBulb.pdb
+C:\Users\gahia\source\repos\lightBulb\obj\Debug\net8.0-windows\lightBulb.Form1.resources
+C:\Users\gahia\source\repos\lightBulb\obj\Debug\net8.0-windows\lightBulb.Properties.Resources.resources
+C:\Users\gahia\source\repos\lightBulb\obj\Debug\net8.0-windows\lightBulb.csproj.GenerateResource.cache
+C:\Users\gahia\source\repos\lightBulb\obj\Debug\net8.0-windows\lightBulb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gahia\source\repos\lightBulb\obj\Debug\net8.0-windows\lightBulb.AssemblyInfoInputs.cache
+C:\Users\gahia\source\repos\lightBulb\obj\Debug\net8.0-windows\lightBulb.AssemblyInfo.cs
+C:\Users\gahia\source\repos\lightBulb\obj\Debug\net8.0-windows\lightBulb.csproj.CoreCompileInputs.cache
+C:\Users\gahia\source\repos\lightBulb\obj\Debug\net8.0-windows\lightBulb.dll
+C:\Users\gahia\source\repos\lightBulb\obj\Debug\net8.0-windows\refint\lightBulb.dll
+C:\Users\gahia\source\repos\lightBulb\obj\Debug\net8.0-windows\lightBulb.pdb
+C:\Users\gahia\source\repos\lightBulb\obj\Debug\net8.0-windows\lightBulb.genruntimeconfig.cache
+C:\Users\gahia\source\repos\lightBulb\obj\Debug\net8.0-windows\ref\lightBulb.dll
