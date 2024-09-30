@@ -16,5 +16,15 @@ namespace lightBulb
         {
             pictureBox1.Image = Image.FromFile("C:\\Users\\gahia\\source\\repos\\lightBulb\\light_off.png");
         }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+            pictureBox1.Location = new Point(pictureBox1.Location.X, pictureBox1.Location.Y - 50);
+        }
+
+        private void button2_Click_1(object sender, EventArgs e)
+        {
+            pictureBox1.Location = new Point(pictureBox1.Location.X, pictureBox1.Location.Y + 50);
+        }
     }
 }

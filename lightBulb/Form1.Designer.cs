@@ -31,6 +31,8 @@
             button_on = new Button();
             button_off = new Button();
             pictureBox1 = new PictureBox();
+            button_up = new Button();
+            button2 = new Button();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
@@ -67,11 +69,33 @@
             pictureBox1.TabStop = false;
             pictureBox1.Click += button1_Click;
             // 
+            // button_up
+            // 
+            button_up.Location = new Point(359, 80);
+            button_up.Name = "button_up";
+            button_up.Size = new Size(55, 94);
+            button_up.TabIndex = 3;
+            button_up.Text = "up";
+            button_up.UseVisualStyleBackColor = true;
+            button_up.Click += button1_Click_1;
+            // 
+            // button2
+            // 
+            button2.Location = new Point(359, 274);
+            button2.Name = "button2";
+            button2.Size = new Size(55, 94);
+            button2.TabIndex = 4;
+            button2.Text = "down";
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click_1;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(button2);
+            Controls.Add(button_up);
             Controls.Add(pictureBox1);
             Controls.Add(button_off);
             Controls.Add(button_on);
@@ -87,5 +111,7 @@
         private Button button_on;
         private Button button_off;
         private PictureBox pictureBox1;
+        private Button button_up;
+        private Button button2;
     }
 }
