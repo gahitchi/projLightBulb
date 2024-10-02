@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = lightBulb
-build_property.ProjectDir = C:\Users\gahia\source\repos\lightBulb\
+build_property.ProjectDir = C:\Users\gahia\Desktop\projLightBulb\lightBulb\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

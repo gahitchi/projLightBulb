@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gahia\\source\\repos\\lightBulb\\lightBulb.csproj",
+      "projectUniqueName": "C:\\Users\\gahia\\Desktop\\projLightBulb\\lightBulb\\lightBulb.csproj",
       "projectName": "lightBulb",
-      "projectPath": "C:\\Users\\gahia\\source\\repos\\lightBulb\\lightBulb.csproj",
+      "projectPath": "C:\\Users\\gahia\\Desktop\\projLightBulb\\lightBulb\\lightBulb.csproj",
       "packagesPath": "C:\\Users\\gahia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gahia\\source\\repos\\lightBulb\\obj\\",
+      "outputPath": "C:\\Users\\gahia\\Desktop\\projLightBulb\\lightBulb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gahia\\AppData\\Roaming\\NuGet\\NuGet.Config",
