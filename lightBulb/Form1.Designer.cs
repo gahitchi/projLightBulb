@@ -29,7 +29,6 @@
         private void InitializeComponent()
         {
             button_on = new Button();
-            button_off = new Button();
             pictureBox1 = new PictureBox();
             button_up = new Button();
             button2 = new Button();
@@ -38,23 +37,13 @@
             // 
             // button_on
             // 
-            button_on.Location = new Point(50, 91);
+            button_on.Location = new Point(50, 194);
             button_on.Name = "button_on";
             button_on.Size = new Size(183, 73);
             button_on.TabIndex = 0;
-            button_on.Text = "on";
+            button_on.Text = "on/off";
             button_on.UseVisualStyleBackColor = true;
             button_on.Click += button1_Click;
-            // 
-            // button_off
-            // 
-            button_off.Location = new Point(50, 285);
-            button_off.Name = "button_off";
-            button_off.Size = new Size(183, 73);
-            button_off.TabIndex = 1;
-            button_off.Text = "off";
-            button_off.UseVisualStyleBackColor = true;
-            button_off.Click += button2_Click;
             // 
             // pictureBox1
             // 
@@ -87,7 +76,7 @@
             button2.TabIndex = 4;
             button2.Text = "down";
             button2.UseVisualStyleBackColor = true;
-            button2.Click += button2_Click_1;
+            button2.Click += button2_Click;
             // 
             // Form1
             // 
@@ -97,10 +86,10 @@
             Controls.Add(button2);
             Controls.Add(button_up);
             Controls.Add(pictureBox1);
-            Controls.Add(button_off);
             Controls.Add(button_on);
             Name = "Form1";
             Text = "Form1";
+            Load += Form1_Load;
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
             PerformLayout();
@@ -109,7 +98,6 @@
         #endregion
 
         private Button button_on;
-        private Button button_off;
         private PictureBox pictureBox1;
         private Button button_up;
         private Button button2;
