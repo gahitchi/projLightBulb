@@ -1,2 +1,2 @@
 # projLightBulb
-light bulb turning on and off with two buttons 
+light bulb turning on and off and sliding up and down
